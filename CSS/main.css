@@ -3,9 +3,13 @@ html{
   font-family:Georgia,serif;
 }
 img{
-image-resolution:100%;
+  width: 100%
 }
 h1{
-  font-variant: uppercase;
+  text-transform: uppercase;
   color: #5d8432;
+}
+figcaption{
+  font-style: italic;
+  text-align: center;
 }
