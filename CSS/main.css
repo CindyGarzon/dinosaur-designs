@@ -1,33 +1,34 @@
 html{
-
-  background-color:#f2f1ed;
-  font-family:Georgia,serif;
+  background-color: #f2f1ed;
+  font-family: Georgia,serif;
 }
+
 img{
   width: 100%
 }
-h1{
 
+h1{
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
   color: #5d8432;
 }
-figcaption{
 
+figcaption{
   font-style: italic;
   text-align: center;
 }
-nav,a:link,a:visited{
 
+nav, a:link, a:visited{
   text-decoration: none;
   color: #793284;
 }
-nav,a:hover,a:active{
 
+nav, a:hover,
+a:active{
   text-decoration: none;
   color: #b42885;
 }
-nav{
 
+nav{
   font-weight: bold;
 }
