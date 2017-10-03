@@ -13,3 +13,14 @@ figcaption{
   font-style: italic;
   text-align: center;
 }
+nav,a:link,a:visited{
+  text-decoration: none;
+  color: #793284;
+}
+nav,a:hover,a:active{
+  text-decoration: none;
+  color: #b42885;
+}
+nav{
+  font-weight: bold;
+}
